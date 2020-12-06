@@ -109,7 +109,7 @@ $(document).ready(function () {
   
   
   
-    /* $.ajax("/burgers", {
+     /* $.ajax("/burgers", {
       type: "GET"
     }).then(function (data) {
       var burgers = data.burgers;
@@ -126,5 +126,4 @@ $(document).ready(function () {
         //styles burgers and devour buttons and renders them to the page
         var burgerNew = "<div class='row'><div class='col-md-9 text-center burgerName'>" + burgers[i].id + ". " + burgers[i].burger_name + "</div><div class='col-md-3 text-center'><button type='button' class='btn " + button + "' data-id='" + burgers[i].id + "'>" + text + "</button></div></div>"
         element.append(burgerNew)
-      } */
-  
+      }   /** */
