@@ -20,7 +20,9 @@
   "keywords": [],
   "dependencies": {
     "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "package": "^1.0.1",
+    "root": "^3.2.0"
   },
   "devDependencies": {}
 }
