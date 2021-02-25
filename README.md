@@ -8,7 +8,7 @@
 ##How to use this application
 *Simply follow the link to the Heroku deployed application.
 
-* https://git.heroku.com/burger-app-express.git
+* https://burger-app-express.herokuapp.com/
 
 
 * Use the Devour and Delete buttons to eat or delete a burger.
