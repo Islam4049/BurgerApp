@@ -18,3 +18,4 @@
 * Using schema.sql, and seeds.sql create and populate a burgers_db database.
 * run npm install to pull in dependencies
 * run node server.js from project route to start the webserver on port 8080.
+![demo](https://github.com/Islam4049/BurgerApp/blob/main/public/assets/images/burger1.jpg)
